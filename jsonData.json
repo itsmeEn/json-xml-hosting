@@ -1,0 +1,39 @@
+{
+    "catalog":{
+        "products":[
+            {
+                "productID": "101",
+                "name": "Smartphone",
+                "category": "Electronics",
+                "type":"Samsung Galaxy S24 Fe",
+                "specs":[
+                    {
+                        "memory": "Expandable up to 512GB",
+                        "os": "Android 14, One UI 6.1 ",
+                        "display":"6.7 inches, Dynamic Amoled 2x",
+                        "camera": "50mp"
+                    }
+                ],
+                "price": 299.99,
+                "stock": 25
+            },
+            {
+                "productID": "102",
+                "name": "Laptop",
+                "category": "Electronics",
+                "description": "A portable computer that can be used for work or entertainment",
+                "type": "HP Victus 15",
+                "specs":[
+                    {
+                        "processor": "Intel i5",
+                        "ram": "16 GB",
+                        "os":"Windows 10 pro",
+                        "camera": "15.6 inches, Full HD(1920 x 1080), 144Hz, IPS"
+                    }
+                ],
+                "price": 799.99,
+                "stock": 15
+            }
+        ]
+    }
+}

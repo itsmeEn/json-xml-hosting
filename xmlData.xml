@@ -1,0 +1,30 @@
+  <catalog>
+    <product productID="101">
+      <name>Smartphone</name>
+      <category>Electronics</category>
+      <price>299.99</price>
+      <stock>25</stock>
+      <description>A mobile device that combines the functionality of traditional and advanced computing</description>
+      <type>Samsung Galaxy S24 Fe</type>
+      <specs>
+        <memory>Expandable up to 512GB</memory>
+        <os>Android 14, One UI 6.1</os>
+        <display>6.7", Dynamic Amoled 2x</display>
+        <camera>50mp</camera>
+      </specs>
+    </product>
+    <product productID="102">
+      <name>Laptop</name>
+      <category>Electronics</category>
+      <price>799.99</price>
+      <stock>15</stock>
+      <description>A portable computer that can be used for work or entertainment</description>
+      <type>HP Victus 15</type>
+      <specs>
+        <processor>Intel Core i5</processor>
+        <ram>16GB</ram>
+        <os>Windows 10 pro</os>
+        <display>15.6", Full HD(1920 x 1080), 144Hz, IPS</display>
+      </specs>
+    </product>
+  </catalog>
